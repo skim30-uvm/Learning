@@ -6,6 +6,7 @@ Some of the contents are inspired, sourced, modifed from free study resources su
   - https://developers.google.com/machine-learning/crash-course
   - https://developers.google.com/machine-learning/practica
   - https://keras.io/examples/
-I tried my best effort to put reference or write my own code.
+
+I tried my best efforts to put references or write my own code.
 
 'ML' directory is for Machine Learning projects. 
